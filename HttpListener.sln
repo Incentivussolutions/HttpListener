@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpListenerService", "HttpListener\HttpListenerService.csproj", "{2AC27C2F-28E2-4F07-A544-DA26F152B53C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC27C2F-28E2-4F07-A544-DA26F152B53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC27C2F-28E2-4F07-A544-DA26F152B53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC27C2F-28E2-4F07-A544-DA26F152B53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC27C2F-28E2-4F07-A544-DA26F152B53C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C7B628C-3265-40B7-91C2-BE40C899A78F}
+	EndGlobalSection
+EndGlobal
