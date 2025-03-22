@@ -13,7 +13,7 @@ namespace HttpListenerService
 {
     public class HttpListenerClass
     {
-        private static HttpListener listener;
+        private static HttpListener listener; 
         private static string urlPrefix;
         private static HttpListenerResponse response;
         private static Application wordApp;

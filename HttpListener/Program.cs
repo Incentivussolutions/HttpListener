@@ -12,7 +12,7 @@ class Program
         var config = LoadConfiguration();
         HttpListenerClass httpListenerClass = new HttpListenerClass(config);
         await httpListenerClass.Start();
-
+         
     }
 
     static IConfigurationRoot LoadConfiguration()

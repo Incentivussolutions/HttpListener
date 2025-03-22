@@ -8,7 +8,7 @@ namespace HttpListenerService.Model
 {
     public class InputParamters
     {
-        public string[] Placeholders {  get; set; }
+        public string[] Placeholders {  get; set; } 
         public string FilePath {  get; set; }
     }
 }

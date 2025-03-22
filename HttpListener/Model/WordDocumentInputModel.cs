@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace HttpListenerService.Model
 {
    public class WordDocumentInputModel
-    {
+    { 
         public string FileToDownload {  get; set; }
         public string MyDocumentsFolderPath {  get; set; }
         public string AddInsConfigFileName {  get; set; }
